@@ -1,0 +1,31 @@
+h1 {
+  color: rgb(7, 248, 79);
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 48px;
+  letter-spacing: 10px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h2 {
+  color: rgb(12, 245, 233);
+  font-family: 'Times New Roman', Times, serif;
+  text-align: left;
+}
+
+h3 {
+  color: rgb(12, 245, 233);
+  font-family: 'Times New Roman', Times, serif;
+  text-align: left;
+}
+
+p {
+  color: rgb(70, 38, 121);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: left;
+}
+imgframe:
+    { background:#D652D9;
+    padding:12px;
+    border:1px solid #999; }
+
